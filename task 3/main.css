@@ -1,0 +1,12 @@
+.block {
+    display: none;
+}
+
+.block.active {
+    display: flex;
+    width: 500px;
+    height: 500px;
+    background: yellow;
+    align-items: center;
+    justify-content: center;
+}
